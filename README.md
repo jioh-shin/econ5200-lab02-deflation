@@ -25,7 +25,8 @@ The analysis identifies differences in measured inflation between CPI-U and C-CP
 CPI-U average annual inflation: 2.61%
 C-CPI-U average annual inflation: 2.35%
 Estimated substitution bias: 0.27 percentage points per year
-Average index-level divergence: 13.30 index points per year
+Total index-level divergence: 13.30 index points
+Average annual index-level divergence: 0.4987 index points per year
 The distinction between index-point changes and percentage-point differences in inflation rates is essential for interpreting price-index measurement accurately.
 
 3. Goodhart's Law and Metric Integrity
@@ -37,4 +38,3 @@ This sign reversal illustrates how optimizing a primary performance metric can b
 4. Reproducible Economic Analysis
 
 The resulting Python module and interactive monitor provide reusable tools for inflation adjustment, price-index comparison, and early detection of potential performance-metric distortions.
-
